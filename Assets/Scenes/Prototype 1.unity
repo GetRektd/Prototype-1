@@ -2176,7 +2176,7 @@ PrefabInstance:
     - target: {fileID: 7700794253736410500, guid: b5415df0022f34a4bbf68259348c83df,
         type: 3}
       propertyPath: m_Name
-      value: Vehicle
+      value: 'The LevarMobile '
       objectReference: {fileID: 0}
     - target: {fileID: 7700794253736439140, guid: b5415df0022f34a4bbf68259348c83df,
         type: 3}
